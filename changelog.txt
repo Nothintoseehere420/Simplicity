@@ -1,0 +1,43 @@
+-NEW ADDITIONS-
+-trident
+-map added
+-honey bottle added
+-honeycomb added
+-dragon breath added
+-farmland added
+-farmland moist added
+-quartz block added
+-chiseled quartz block added
+-quartz pillar added
+
+-PBR SUPPORT UPDATES-
+-stone bricks fixed
+-mossy stone bricks fixed
+-cracked stone bricks added
+-end stone bricks added
+-sould torch added
+-torch added added
+-redstone torch added
+-diamond armor added
+-golden armor added
+-iron armor added
+-spruce planks added
+
+-MOD SUPPORT UPDATES-
+-mod support for Xaero's world map
+-mod support for Xaero's minimap
+-mod support for Forge menu
+-mod support for The Endergetic Expansion ]
+ [-acidian lantern added                  ]
+ [-ender campfire added                   ]
+ [-ender 3D lantern added                 ]
+ [-ender torch added                      ]
+ [-frisbloom bud added                    ]
+ [-poise beehive added                    ]
+ [-poise bookshelf added                  ]
+ [-end crystal added                      ]
+ [-ender campfire added                   ]
+ [-ender lantern                          ]
+ [-eumus brick added                      ]
+ [-puffbug bottle added                   ]
+ 
